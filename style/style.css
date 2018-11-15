@@ -1,0 +1,25 @@
+body {
+	background: lightgrey;
+	text-align: center;
+	font-family: arial;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+button {
+	padding: 8px;
+	border: grey solid 1px;
+	border-radius: 5px;
+	width: auto;
+	margin: 10px;
+}
+
+button:hover {
+	cursor: pointer;
+	background: rgb(211,211,211);
+}
+
+#image {
+	width: 400px;
+	height: 400px;
+}
